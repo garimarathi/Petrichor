@@ -11,7 +11,7 @@ const heart = <FontAwesomeIcon icon={faHeart} />
 function Nav() {
   return (
 <section id="header">
-  <a href="/" className="tname"><p>Garima Rathi</p></a>
+  <a href="/" className="tname"><p>Petrichor</p></a>
   <div>
     <ul id="navbar">
       {/* <a href="#" id="close"><i className="fa fa-times" /> </a> */}
