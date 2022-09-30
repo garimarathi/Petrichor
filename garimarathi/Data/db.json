@@ -1,0 +1,148 @@
+
+{
+    "blogs":[
+        {
+            "title": "Heart", 
+             "type": "Septolet",
+             "id": 1,
+             "icon": "images/poems/Poem1.png",
+             "content": " A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality And then turning into thorns meaning what was once so adored is the one that now breaks us apart",
+             "authors_note":" A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality And then turning into thorns meaning what was once so adored is the one that now breaks us apart",
+             "about":" A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality And then turning into thorns meaning what was once so adored is the one that now breaks us apart A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality<br> And then turning into thorns meaning  what was once so adored is the one that now breaks us apart",
+             "ch": "poem"
+        },
+        {
+            "title": "Within Me", 
+             "type": "Quatrain",
+             "id": 2,
+             "icon": "images/poems/Poem2.png",
+             "content": " A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality And then turning into thorns meaning what was once so adored is the one that now breaks us apart A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality<br> And then turning into thorns meaning  what was once so adored is the one that now breaks us apart",
+             "authors_note":" A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality And then turning into thorns meaning what was once so adored is the one that now breaks us apart A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality<br> And then turning into thorns meaning  what was once so adored is the one that now breaks us apart",
+             "about":" A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality And then turning into thorns meaning what was once so adored is the one that now breaks us apart A fleeting thought about how we miss someone we are trying hard to forget <br>The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality<br> And then turning into thorns meaning  what was once so adored is the one that now breaks us apart",
+             "ch": "poem"
+        },
+        {
+            "title": "Daises and Thorns", 
+             "type": "Free Verse",
+             "id": 3,
+             "icon": "images/poems/Poem3.png",
+             "content": " She quietly said, `Just like the fragrance of these hyacinths grow distant you too shall forget me one day` 20 years have passed since that day I still remember you At every corner of my world I see your fading self, I once so well knew And as I trace down your bizarre silhouette I realize Your face adorned in those freckles Your smile like the daisies Aura of the lotus And eyes imbued as the seas All drowning me in a simple plea `Please just forget me`But, I could never forget you. Never forget the 1st time I saw you the last time you walked away Between those times All the memories you gave I can never forget. My brain keeps strumming the veins to play your melody And my heart giving away the beat Turning your daisies into thorns Pricking me like a dead meat. I am living off your melodies When I should die off your silence And You are someone I miss everyday, but wish to forget one day.",
+
+             "authors_note":" A fleeting thought about how we miss someone we are trying hard to forget. The metaphors with Daisies and Lotus has a subtle significance of innocence and compassion much like a lotus personality. And then turning into thorns meaning .. what was once so adored is the one that now breaks us apart.",
+
+             "about":"Nonmetrical, nonrhyming lines that closely follow the natural rhythms of speech. A regular pattern of sound or rhythm may emerge in free-verse lines, but the poet does not adhere to a metrical plan in their composition. That doesn't mean it's free from any patterns, though. Free verse poems are very carefully structured to communicate meaning through sounds, line breaks, punctuation, images, and more. Because poets using free verse aren't following certain rules when they write, they have the freedom to choose whatever words, sounds, and shapes they want in their poetry. But the lack of style devices also becomes a cause to falter in several cases.",
+             "ch": "poem"
+        },
+        {
+            "title": "When I'd be gone", 
+             "type": "Refrain",
+             "id": 4,
+             "icon": "images/poems/Poem4.png",
+             "ch": "poem"
+        },
+        {
+            "title": "Custom", 
+             "type": "Ballad",
+             "id": 5,
+             "icon": "images/poems/Poem5.png",
+             "ch": "poem"
+        },
+        {
+            "title": "The Unstrung Guitar", 
+             "type": "Reverse",
+             "id": 6,
+             "icon": "images/poems/Poem6.png",
+             "ch": "poem"
+        },
+        {
+            "title": "ICOF - Part1", 
+             "text": "In the absurdity of thoughts resides its beauty.",
+             "id": 7,
+             "icon": "images/ICOF.png",
+             "body":"In a conversation with an old friend about this absurdity of thoughts and stories he suddenly commented, “Garima tujhe pata hai, yeh “writing” na ek nasha hai”. You know how people feel relaxed and `unleashed` when they are high, I feel that when I write, not necessarily always while penning something. But writing gives me the liberty to build another world, to commit a hundred crimes, to live a 1000 thousand lives, and to relive times in an instant. You do realize how insane that is right?, and this goes beyond the fictitious world. Once I have that flash of thought, it just sends a spark down my bloodstream, causing a staggering gush of dopamine. My brain immediately starts devising the connections. I literally live for those moments, when my adrenaline kicks in as I sneakily steal an idea and try to build a story based on it.“",
+             "para1":"Meanwhile I just sat in that damn chair, fixated at what he was speaking, the way he was knitting the words and stitching his thoughts so seamlessly.",
+             "para2":"And he went on, “It all seems very fancy and eccentric right, like this comes out to be so innate and seamless. But you know what I am constantly failing as a writer. I am constantly scratching out words and tearing down stories, only to remold them one by one. My mind is a castle which is always under construction. At the entrance you will be welcomed by an ancient fountain spewing the elixir of a writer, over the grail of the lush green meadows. Then meeting the eyes are the seemingly holistic buildings of some great thoughts, but beyond these bombastic structures lies the ruins of my desolated ideas. Dilapidated houses with ivies growing on the walls of stories that once excited me, a lamp post shedding light on the ruins of stories that I never explored. Absurd carriages carrying my unfathomable ideas and grotesque statues portraying some.“So engrossed in his vivid mind I could just nod occasionally hoping to not look preposterous.”",
+             "para3":"   In the park nearby, you can hear countless conversations waiting to be heard, endless scenarios bickering and waiting to be stitched. It feels as though a million movie reels have been set lose causing a stampede of stories. And if you manage to cross that stampede alive you will arrive at the threshold of my graveyard. A scared site where I burn and bury my thoughts with epiphanies gingerly engraved on the tombstones. Behind the walls of the graveyard I have planted hemp herb, on its leaves I have etched the sentences from my favorite books and on the stems my desires.",
+             "para4":"You know Garima he said, “In all of this rubble, in this situation of “middle of nowhere” you will see my inspiration. When I trip over any ruin, I promptly gather my tools and build a piece out of it. Like the “apple drop”, I rush to show the world my creation, fretting for its response.",
+             "para5":"But the world?",
+             "para6":"Well they never really understood Newton`s obsession, or why Archimedes ran naked and nor will they understand this. Oh jsuk That wall, the graveyard wall, holds a graffiti “A herb for all that hurts” well I particular love this troublemaker.” As he indulged in a broad grin, I felt myself being pulled back into reality. I was speechless, petrified and still dreamy about his mind palace which was still so lucid in my mind.",
+             "ch": "blog"
+             
+             
+        },
+        {
+            "title": "ICOF - Part2", 
+             "text": "Beautiful Strangers",
+             "id": 8,
+             "icon": "images/ICOF.png",
+             "body":"In a conversation with an old friend about the depth of the sky he prompted, “ Garima sometimes I feel the people we meet are like tiny puzzle pieces that ultimately completes us” and to be honest that set me thinking. While he continued, “ You see I cook Maggie super meticulously because that is how my father does it, I love hearing savage jokes because my mum cracks them all the way home, I read certain books in a different light because a friend did a PM of every chapter in it, I groove to songs my friend suggested in the boring lectures at the same time there are songs I don't want to listen to, songs that remind me of an old someone, an old heartbreak.",
+             "para1":"People are like fleeting clouds they say, but they are more like the rain laden ones, cause even when they pass they shed a little of themselves onto us.",
+             "para2":"Our lives as seen, seems to be a big puzzle picture, but us as a person, are just a fraction in it. We are somehow a little part of everyone we meet and even when they leave, traces of them linger inside us as a learning, as an emotion, as a home, as a secret or as a story worth telling.",
+             "ch": "blog"
+        },
+        {
+            "title": "ICOF - Part3", 
+             "text": "Lost and Found",
+             "id": 9,
+             "icon": "images/ICOF.png",
+             "body":"In a conversation with an old friend she said, “People don’t love you because you are special, you are special because there are those few people in the world who love you so much and sometimes despite the way you treat them. Love without expectations, one with so much depth that you could get lost in it.” that does make sense I said. She continued speaking and this time with a much directed speech. “Your life as I see from a third persons point of view” she said, “is nothing less than a complete roller coaster ride. A journey filled with excitement, happiness, thrill along with fear, sorrow and terror and I guess everyone’s life around here is the similar, yours is just with some more mystery.",
+             "para1":" But in all of this and from everything that I gather, the way people feel completely depends on what emotions they entrust their energies into. Your past may have been a one filled with frustration and despair, and the present may feel unbearable at times but there a few gems and stars you have that continue to shine brightly in your life. Walking down the hallway surrounded by a bunch of people you call “friends” you seem to be lost, lost in the hollowness of everything. The warmth in your eyes is replaced by a cold oblivion. The words that would keep ringing in my ears are now engulfed by an echoing silence. A silence that I dread even in my worst nightmares. Walking, you are keeping pace but your heart seems to be jaded, your soul seems to be wearied.” She paused giving me a moment to face it and let it sink.",
+             "para2":"“I will not complain” she said,” but I will neither deny admitting that this is not who you are. The chirpy, lively and one full of life glow is slowly vanishing. All the conversations, the dreams, the desires you had, the things you wanted to achieve all seem to fade as you allow yourself to drown in this mist of restlessness and worry. I see you being lonely, keeping to yourself, buried in pessimist thoughts just trying to distract yourself to temporarily escape from this haze, but I know every night the same thoughts bite you, driving away every good thing that happened.”",
+             "para3":"In the face of truth the silence became even louder, but she did not resist, “To be honest she continued, ”I hate myself, despise myself for not being that person who could help you get out of this mist. But even if I cannot be the person who can help you, let me be the person you can talk to. Maybe a person who is too dumb to solve any of your problems but to just walk you through and be there for you. I know that this is not necessary and that you are completely and wholly capable of handling it yourself, but its just that maybe there is a possibility that two minds working would speed up the process, the process at the end of which we both get back the girl you truly are.”",
+             "para4":"Her words crashed into my heart and tears gushed down my face catastrophically. For a second it felt like the End. But a minute passed then another, I pulled myself together, rubbing the blues from my eyes, I gazed at her, that old friend sitting on the other side of the mirror. ",
+             "para5":"She was smiling at me through her assuring eyes, gingerly saying it is going to be alright.",
+             "ch": "blog"
+        },
+        {
+            "title": "Notes from Seneca", 
+             "text": "We suffer more often in imagination than in reality.",
+             "id": 10,
+             "icon": "images/Seneca.jpg",
+             "ch": "blog"
+        },
+        {
+            "title": "100 Reasons Why", 
+             "text": "Memento Mori",
+             "id": 11,
+             "icon": "images/reasons.jpeg",
+             "ch": "blog"
+        },
+        {
+            "title": "ICOF - Part1", 
+             "text": "In the absurdity of thoughts resides its beauty.",
+             "id": 12,
+             "icon": "images/ICOF.png",
+             "ch": "blogall"
+             
+        },
+        {
+            "title": "ICOF - Part2", 
+             "text": "Beautiful Strangers",
+             "id": 13,
+             "icon": "images/ICOF.png",
+             "ch": "blogall"
+        },
+        {
+            "title": "ICOF - Part3", 
+             "text": "Lost and Found",
+             "id": 14,
+             "icon": "images/ICOF.png",
+             "ch": "blogall"
+        },
+        {
+            "title": "Notes from Seneca", 
+             "text": "We suffer more often in imagination than in reality.",
+             "id": 15,
+             "icon": "images/Seneca.jpg",
+             "ch": "blogall"
+        },
+        {
+            "title": "100 Reasons Why", 
+             "text": "Memento Mori",
+             "id": 16,
+             "icon": "images/reasons.jpeg",
+             "ch": "blogall"
+        }
+ 
+    ]
+}
